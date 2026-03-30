@@ -81,7 +81,7 @@ Per default, all direct child elements of the scene will become moving objects, 
 </div>
 ```
 
-While all other options and parameters are optional, with sane defaults, and can be set programatically, each layer needs a `data-depth` attribute. The movement applied to each layer will be multiplied by its depth attribute.
+While all other options and parameters are optional, with sane defaults, and can be set programmatically, each layer needs a `data-depth` attribute. The movement applied to each layer will be multiplied by its depth attribute.
 
 ```html
 <div id="scene">
